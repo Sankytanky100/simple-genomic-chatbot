@@ -1,0 +1,6 @@
+camel-ai[all]==0.2.11
+firecrawl-py
+boto3
+botocore
+pandas
+requests
